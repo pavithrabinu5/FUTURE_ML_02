@@ -1,0 +1,10 @@
+cat > ~/support_ticket_classifier/requirements.txt << 'EOF'
+streamlit
+scikit-learn
+joblib
+pandas
+numpy
+matplotlib
+nltk
+wordcloud
+EOF
