@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+models/*.pkl
+.ipynb_checkpoints/
+data/customer_support_tickets.csv

@@ -1,0 +1,12 @@
+{
+  "n_total": 2000,
+  "n_train": 1600,
+  "n_test": 400,
+  "vocab_size": 1073,
+  "cat_accuracy": 1.0,
+  "cat_f1": 1.0,
+  "pri_accuracy": 1.0,
+  "pri_f1": 1.0,
+  "cat_report": "                 precision    recall  f1-score   support\n\n        Account       1.00      1.00      1.00        82\n        Billing       1.00      1.00      1.00       101\nFeature Request       1.00      1.00      1.00        41\n  General Query       1.00      1.00      1.00        59\nTechnical Issue       1.00      1.00      1.00       117\n\n       accuracy                           1.00       400\n      macro avg       1.00      1.00      1.00       400\n   weighted avg       1.00      1.00      1.00       400\n",
+  "pri_report": "              precision    recall  f1-score   support\n\n        High       1.00      1.00      1.00       115\n         Low       1.00      1.00      1.00       108\n      Medium       1.00      1.00      1.00       177\n\n    accuracy                           1.00       400\n   macro avg       1.00      1.00      1.00       400\nweighted avg       1.00      1.00      1.00       400\n"
+}
